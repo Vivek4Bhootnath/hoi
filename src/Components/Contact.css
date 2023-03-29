@@ -1,0 +1,38 @@
+#contact{
+    background-image: url('./bg1.webp');
+    background-size: cover;
+    align-items: center;
+   text-align: center;
+    padding: 50px;
+    color: aliceblue;    
+}
+
+.contact-from{
+    background-color: darkgreen;
+    padding: 20px;
+    width: 50%;
+    min-height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.contact-from input{
+    margin-bottom: 10px;
+    height: 35px;
+    width: 100%;
+    border-radius: 10px;
+}
+.contact-from textarea{
+    margin-bottom: 10px;
+    height: 75px;
+    width: 100%;
+    border-radius: 10px;
+}
+.contact-from button{
+    margin-bottom: 10px;
+    height: 45px;
+    width: 30%;
+    border-radius: 10px;
+}
+

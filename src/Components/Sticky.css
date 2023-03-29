@@ -1,0 +1,21 @@
+.sticky{
+  
+   z-index: 100;
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+margin-bottom: 0px;
+--bs-gutter-x:0px;
+}
+.header-bottom{
+    /* background-color: #76A72E; */
+    background-color: darkgreen;
+    width: 100%;
+    height: 55px;
+    /* padding-top: 6px; */
+    align-items: center  ;
+    display: flex;
+    position: sticky; 
+    top: 0;   
+
+}

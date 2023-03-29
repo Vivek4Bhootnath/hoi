@@ -1,0 +1,59 @@
+.Checkout-page{
+    min-height: 500px;
+    
+}
+
+
+.checkout-section {
+    background: rgba(240, 242, 245, 1);
+    padding: 15px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(221, 221, 221, 1);
+    margin-bottom: 25px;
+    display: block;
+}
+.title.section-title {
+    font-size: 14px;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: initial;
+}
+
+.title {
+    font-family: 'Libre Baskerville';
+    font-weight: 700;
+    font-size: 18px;
+    color: rgba(51,51,51,1);
+    margin-bottom: 15px;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: initial;
+    text-align: left;
+}
+.title {
+    position: relative;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+}
+
+.checkout-section .section-body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex !important;
+    width: 100%;
+    /* -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: inline; */
+}
+
+.section-body .form-group{
+    display: flex;
+    justify-content: space-around !important;
+    
+}
+.radio{
+    margin-right: 60px;
+}

@@ -1,0 +1,16 @@
+/* .App {
+  text-align: center;
+} */
+
+body{
+  /* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; */
+    font-size: 14px;
+    line-height: 1.42857143;
+    overflow-x: hidden;
+}
+
+.grid{
+  display: flex;
+  width: 150px;
+  height: 70px;
+ }

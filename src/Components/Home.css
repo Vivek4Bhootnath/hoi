@@ -1,0 +1,28 @@
+.home{
+    background-image: url('./bg1.webp');
+    height: 600px;
+    background-size: cover;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.content-box{
+    position: absolute;
+    top: 30px;
+    text-align: center;
+    width: 100%;
+   
+    color: azure;
+}
+
+.content{
+    font-size: 45px;
+    font-style: italic;
+    font-family:fantasy;
+}
+
+.heading-about{
+    font-size: 30px;
+    font-family: math;
+    text-align: center;
+}
